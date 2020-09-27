@@ -1,0 +1,57 @@
+body{
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(to right, black, rgb(4, 139, 208));
+}
+div{
+  margin-top: 200px;
+  width: 30%;
+  border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 0 0 20px white;
+  height: 200px;
+  background: url(giphy.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+
+}
+input{
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 5px;
+  border: none;
+  text-align: center;
+}
+button{
+  width: 50%;
+  margin: 20px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 0 5px white;
+  transition: box-shadow .5s;
+}
+button:hover{
+  box-shadow: 0 0 50px white;
+}
+p{
+  text-shadow: 0 0 10px white;
+  background-color: black;
+}
+a{
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px white;
+  transition: box-shadow .5s;
+}
+a:hover{
+  box-shadow: 0 0 50px white;
+}

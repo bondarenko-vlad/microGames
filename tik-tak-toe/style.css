@@ -1,0 +1,18 @@
+img{
+  width: 50%;
+}
+div{
+  display: inline-block;
+  width: 30%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  /* это тоже самое что border: 1px solid black; */
+  padding: 10px; /* внутренний отступ */
+  margin: 20px; /* внешний отступ */
+  background-color: #48c9f0
+}
+/*
+ДЗ
+Почитать про div, сделать похожую страничку самостоятельно
+  */

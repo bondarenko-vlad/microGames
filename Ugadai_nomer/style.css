@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+div {
+  display: block;
+  width: 40%;
+  min-width: 600px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: #dddddd89
+
+}
+.hint {
+  font-weight: bolder;
+}
+.attempts {
+    font-weight: bolder;
+}
